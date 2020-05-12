@@ -15,9 +15,9 @@ Nice! You're running the program.
 
 For now put in some number and you'll see if is an esoteric, prime or cetic number. That's it! Simple!
 
-For helping, here are some number to be testing: 13, 15, 9, 5, 7, 60, 75, 23
+For helping, here are some number to be testing: 13, 15, 9, 5, 7, 60, 75, 23...
 
-#### RECEPTIONIST = HOW TO RUN
+#### RECEPTIONIST - HOW TO RUN
 In terminal on this path folder just put: `ruby receptionist.rb`
 
 Nice! You're running the program.
