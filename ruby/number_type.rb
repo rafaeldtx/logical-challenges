@@ -23,7 +23,7 @@ def is_esoteric(number)
 end
 
 def is_prime(number)
-  return (2..number-1).none?{|num| number.remainder(num) == 0}
+  return (2..Math::sqrt(number)).none?{|num| number.remainder(num) == 0}
 end
 
 get_number_type
