@@ -1,11 +1,12 @@
-## LOGICAL CHALLENGES
+# Logical Challenges
 Here you will find some logical challenges in many languages.
 
 GO! EXPLORE!
 
-#### USED LANGUAGES
+## Used Languages
 - Ruby
 
-#### MAINTAINER
+## Author
 Rafael Domingues Teixeira
-Email: <rafael991_@hotmail.com>
+
+**Email**: <rafael991_@hotmail.com>
