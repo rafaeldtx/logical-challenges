@@ -11,13 +11,15 @@ Here you will see the following challenges:
 
 - **Fizzbuzz Numbers** - This logical shows in range between 1 and 100, a message fizz, buzz or fizzbuzz instead of the number when could be divided by 3 and 5.
 
+- **Validate Delimiters** - This logical validates for delimiter opening and closing errors
+
 ## Number Type - How to run
 In terminal on this path folder just put:
 ```
 $ ruby receptionist.rb
 ```
 
-Nice! You're running the program.
+Nice! You're running the code.
 
 For now put in some number and you'll see if is an esoteric, prime or cetic number. That's it! Simple!
 
@@ -29,7 +31,7 @@ In terminal on this path folder just put:
 $ ruby receptionist.rb
 ```
 
-Nice! You're running the program.
+Nice! You're running the code.
 
 For now, put your date of birth and you'll see which room you will be directed to.
 
@@ -41,4 +43,20 @@ In terminal on this path folder just put:
 $ ruby fizzbuzz_numbers.rb
 ```
 
-Now you can see on terminal the list between 1 and 100 with changed number to Fizzbuzz!!!
+Now you can see on terminal the list between 1 and 100 with changed numbers to Fizzbuzz!!!
+
+## Validate Delimiters - How to run
+In terminal on this path folder just put:
+```
+$ ruby validate_delimiters.rb
+```
+
+Nice! You're running the code.
+
+For now put in some string with delimiters and you'll see if is a correct attribution!
+
+For helping, here are some string to be testing:
+
+Válidas: `'abc()', 'def{[]}', '[abcd]'`
+
+Inválidas: `'abc]', 'def(', 'abc{[}]'`
